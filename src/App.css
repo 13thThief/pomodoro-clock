@@ -1,0 +1,63 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  line-height: 1.67;
+  overflow-x: auto;
+}
+
+.title {
+  font-size: 30px;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.label {
+  width: 200px;
+  text-align: center;
+  margin: auto;
+  font-size: 21px;
+}
+
+.label-title {
+  margin-bottom: .75em;
+}
+
+svg text {
+  font-size: 21px;
+  fill: white;
+}
+
+button {
+  display: inline-block;
+  background: none;
+  padding: 0 2rem;
+  outline: none;
+  border: none;
+  color: black;
+  cursor: pointer;
+}
+
+#time-left {
+  color: #f44336;
+  height: 1px;
+}
+
+#timer {
+  text-align: center;
+  font-size: 20px;
+  margin: auto;
+}
+
+#timer-display {
+  margin-bottom: 1em;
+}
+
+.label-container {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
