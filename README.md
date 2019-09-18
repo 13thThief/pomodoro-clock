@@ -3,7 +3,7 @@
 
 A simple Pomodoro productivity timer
 
-![(pomodoro.png)](./pomodoro.png)
+![(pomodoro.png)](https://github.com/13thThief/pomodoro-clock/blob/master/pomodoro.PNG)
 
 ## Built With
 
