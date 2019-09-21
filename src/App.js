@@ -265,6 +265,8 @@ class App extends React.Component {
             onClick={this.handleCount}
           ></Label>
         </div>
+      
+        {/* https://jsfiddle.net/alkhoo/JwkYm/15/ */}
         <svg style={{ width: 200, height: 200, top: 0, left: 0 }}>
           <circle
             cx='100'
